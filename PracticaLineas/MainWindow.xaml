@@ -1,0 +1,24 @@
+﻿<Window x:Class="PracticaLineas.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PracticaLineas"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Polyline Name="plnLinea" StrokeThickness="2" Stroke="Yellow"/>
+        <Polyline Name="plnLinea1" StrokeThickness="3" Stroke="Beige"/>
+        <Polyline Name="plnLinea2" StrokeThickness="2" Stroke="Green"/>
+        <Polyline Name="plnLinea3" StrokeThickness="2" Stroke="Green"/>
+        <Polyline Name="plnLinea4" StrokeThickness="2" Stroke="Green"/>
+        <Polyline Name="plnLinea5" StrokeThickness="3" Stroke="Brown"/>
+        <Polyline Name="plnLinea6" StrokeThickness="3" Stroke="Blue"/>
+        <Polyline Name="plnLinea7" StrokeThickness="5" Stroke="BurlyWood"/>
+        <Polyline Name="plnLinea8" StrokeThickness="3" Stroke="BlanchedAlmond"/>
+        <Polyline Name="plnLinea9" StrokeThickness="5" Stroke="BurlyWood"/>
+        <Polyline Name="plnLinea10" StrokeThickness="3" Stroke="PaleVioletRed"/>
+        <Polyline Name="plnLinea11" StrokeThickness="3" Stroke="Chocolate"/>
+        <Polyline Name="plnLinea12" StrokeThickness="3" Stroke="ForestGreen"/>
+    </Grid>
+</Window>
